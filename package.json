@@ -1,0 +1,16 @@
+{
+  "name": "EC2_Control",
+  "version": "0.0.1",
+  "description": "Starts and Stops EC2 Instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Gaunt",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-sdk": "^2.0.15",
+    "colors": "^0.6.2",
+    "yargs": "^1.3.1"
+  }
+}
